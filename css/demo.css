@@ -12,12 +12,12 @@
 }
 /* General Demo Style */
 .overlay{
-	position:absolute
+	position:relative;
 	top:0px; left:0px;
 	margin: 0 auto;
 	display:screen;
 	min-height: 100%; min-width: 100%;
-	overflow: visible;
+	overflow: hidden;
 
 #overlay {
      position: absolute;
@@ -171,4 +171,13 @@ a:hover{
 .no-csstransforms3d .support-note span.no-csstransforms3d,
 .no-csstransitions .support-note span.no-csstransitions{
 	display: block;
+}
+
+.incheck ul li a {
+	background:transparent;
+	display:inline;
+	margin:0 auto;
+	max-width:200px;
+	text-indent: 999px;
+	overflow:visible;
 }

@@ -7,6 +7,9 @@
  * 
  * Copyright 2012, Codrops
  * http://www.codrops.com
+ * remixed by skopp
+
+	
  */
 
 ( function( window, $, undefined ) {
