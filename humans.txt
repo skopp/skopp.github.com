@@ -1,30 +1,34 @@
 /humans.txt/
       _                                           _ _   _           _     
      | |                                         (_) | | |         | |      |
-  ___| | _____  _ __  _ __     ___  _ __     __ _ _| |_| |__  _   _| |__    |       Leonardo DiCaprio Owen Wilson - what of them?
+  ___| | _____  _ __  _ __     ___  _ __     __ _ _| |_| |__  _   _| |__    |       Leonardo DiCaprio Owen Wilson - had nothing to do with this
  / __| |/ / _ \| '_ \| '_ \   / _ \| '_ \   / _` | | __| '_ \| | | | '_ \   |     Director: Not Steven Spielberg at all
- \__ \   < (_) | |_) | |_) | | (_) | | | | | (_| | | |_| | | | |_| | |_) |  |
+ \__ \   < (_) | |_) | |_) | | (_) | | | | | (_| | | |_| | | | |_| | |_) |  |    Producer: Well, it wasn't Jerry Bruckheimer, however,
  |___/_|\_\___/| .__/| .__/   \___/|_| |_|  \__, |_|\__|_| |_|\__,_|_.__/   | KnobKnob by Martin Angelov : https://github.com/martinaglv/KnobKnob
                | |   | |                     __/ |                          |       
                |_|   |_|                    |___/                           |__________________________
-                                                                                                       |____________________________|
+                                                                                                       |_how_long_is_a_chinaman_______________________|
 MAD RESPEKT TO / PROPS FOR:                                                                             
 Cassette Tape by Mauricio Estrella http://manicho.deviantart.com/art/Cassette-PSD-File-86548493
-code derived from a&nbsp;a tympanus.net/codrops tut @ http://goo.gl/kaY8x
+code derived from http://tympanus.net/codrops tut @ http://goo.gl/kaY8x
 BIGUPS to:
-- koding.net and the super awesome cats over there
+- koding.com and the super awesome cats over there
 - uhurucloud and michael surkan, calin miclaus and stefan in particular
 - contactually.com - @tony and brian + the rest of the krew. you guys supported me from day one. I owe you guys big time.
 - REDMACX for the awesome graphic work incl. the uber-striking SKUDA logo. you rock, G
 - TSE BIG MAX and all my colleagues over there. madd love
 - coderbuddy: @adrian and @a3rxander - you pythonlovers ;p
 - to the FOSS community, you are some of the most generous people in the world, know that (also @github, @mercurial, @bitbucket, @gitorious + many, many others too )
+- if I forgot anyone, I probably meant to.
+- if I forgot anyone that I didn't mean to, get over it.
 
 ....
 this is only the beginning,
 thank you for reading. 
 
 Rashaad Essop / skopp
+
+Ps. if the world ends, you may have my trenchcoat. It's funkalicious. On second thought, I'll keep it.
 
 
 
