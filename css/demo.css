@@ -172,7 +172,7 @@ a:hover{
 .no-csstransitions .support-note span.no-csstransitions{
 	display: block;
 }
-
+/* this below needs some fixing */
 .incheck ul li a {
 	background:transparent;
 	display:inline;
@@ -180,4 +180,7 @@ a:hover{
 	max-width:200px;
 	text-indent: 999px;
 	overflow:visible;
+}
+.slot{
+	@import:url('base.css');
 }
