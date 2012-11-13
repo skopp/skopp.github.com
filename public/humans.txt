@@ -1,0 +1,52 @@
+/humans.txt/
+      _                                           _ _   _           _     
+     | |                                         (_) | | |         | |      |
+  ___| | _____  _ __  _ __     ___  _ __     __ _ _| |_| |__  _   _| |__    |       Leonardo DiCaprio Owen Wilson - had nothing to do with this
+ / __| |/ / _ \| '_ \| '_ \   / _ \| '_ \   / _` | | __| '_ \| | | | '_ \   |     Director: Not Steven Spielberg at all
+ \__ \   < (_) | |_) | |_) | | (_) | | | | | (_| | | |_| | | | |_| | |_) |  |    Producer: Well, it wasn't Jerry Bruckheimer, however,
+ |___/_|\_\___/| .__/| .__/   \___/|_| |_|  \__, |_|\__|_| |_|\__,_|_.__/   | KnobKnob by Martin Angelov : https://github.com/martinaglv/KnobKnob
+               | |   | |                     __/ |                          |       
+               |_|   |_|                    |___/                           |__________________________
+                                                                                                       |_how_long_is_a_chinaman_______________________|
+MAD RESPEKT TO / PROPS FOR:                                                                             
+Cassette Tape by Mauricio Estrella http://manicho.deviantart.com/art/Cassette-PSD-File-86548493
+code derived from http://tympanus.net/codrops tut @ http://goo.gl/kaY8x
+BIGUPS to:
+- koding.com and the super awesome cats over there
+- uhurucloud and michael surkan, calin miclaus and stefan in particular
+- contactually.com - @tony and brian + the rest of the krew. you guys supported me from day one. I owe you guys big time.
+- REDMACX for the awesome graphic work incl. the uber-striking SKUDA logo. you rock, G
+- TSE BIG MAX and all my colleagues over there. madd love
+- coderbuddy: @adrian and @a3rxander - you pythonlovers ;p
+- to the FOSS community, you are some of the most generous people in the world, know that (also @github, @mercurial, @bitbucket, @gitorious + many, many others too )
+- if I forgot anyone, I probably meant to.
+- if I forgot anyone that I didn't mean to, get over it.
+
+....
+this is only the beginning,
+thank you for reading. 
+
+Rashaad Essop / skopp
+
+Ps. if the world ends, you may have my trenchcoat. It's funkalicious. On second thought, I'll keep it.
+
+
+
+                                        _           _       _       ___     ___    __   ___  
+                                       (_)         | |     | |     |__ \   / _ \  /_ | |__ \ 
+   ___    ___    _ __    _   _   _ __   _    __ _  | |__   | |_       ) | | | | |  | |    ) |
+  / __|  / _ \  | '_ \  | | | | | '__| | |  / _` | | '_ \  | __|     / /  | | | |  | |   / / 
+ | (__  | (_) | | |_) | | |_| | | |    | | | (_| | | | | | | |_     / /_  | |_| |  | |  / /_ 
+  \___|  \___/  | .__/   \__, | |_|    |_|  \__, | |_| |_|  \__|   |____|  \___/   |_| |____| all rights reserved. 
+                | |       __/ |              __/ |                                             for any and all copyright or other disputes email admin@skuda.net
+                |_|      |___/              |___/                                               read carefully: FAILURE TO PROVE RECEIPT _AND_ READING OF YOUR NOTICE renders SKUDA as NOT
+_____/\\\\\\\\\\\____/\\\________/\\\__/\\\________/\\\__/\\\\\\\\\\\\________/\\\\\\\\\____      liable for ANY infringement. BY SIMPLY READING THIS you implicitly acknowledge that you we have
+ ___/\\\/////////\\\_\/\\\_____/\\\//__\/\\\_______\/\\\_\/\\\////////\\\____/\\\\\\\\\\\\\__       written in CLEAR and STRAIGHTFORWARD text how to address an infringement issue. Thus, failure to
+  __\//\\\______\///__\/\\\__/\\\//_____\/\\\_______\/\\\_\/\\\______\//\\\__/\\\/////////\\\_        contact us correctly IS YOUR FAULT NOT OURS.
+   ___\////\\\_________\/\\\\\\//\\\_____\/\\\_______\/\\\_\/\\\_______\/\\\_\/\\\_______\/\\\_         
+    ______\////\\\______\/\\\//_\//\\\____\/\\\_______\/\\\_\/\\\_______\/\\\_\/\\\\\\\\\\\\\\\_          "Put another way, we know copyrights, BEATCH. 
+     _________\////\\\___\/\\\____\//\\\___\/\\\_______\/\\\_\/\\\_______\/\\\_\/\\\/////////\\\_           Bring it on if you got balls."
+      __/\\\______\//\\\__\/\\\_____\//\\\__\//\\\______/\\\__\/\\\_______/\\\__\/\\\_______\/\\\_            
+       _\///\\\\\\\\\\\/___\/\\\______\//\\\__\///\\\\\\\\\/___\/\\\\\\\\\\\\/___\/\\\_______\/\\\_             Goodness, my cat just walked on my keyboard and typed out a random quote.
+        ___\///////////_____\///________\///_____\/////////_____\////////////_____\///________\///__
+                                                                                                                  cats are strange.
