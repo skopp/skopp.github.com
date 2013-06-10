@@ -39,9 +39,16 @@
 }
 
 }
+html,body{
+  height:100%;
+}
+body{
+  background-color:rgb(74, 74, 74);
+  background: url("http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/noisy_net.png") repeat scroll center center rgb(74, 74, 74);
+}
 body{
 	font-family: Cambria, Georgia, serif;
-	background: #b6b6b6 url(../images/bg.jpg) fixed no-repeat top center;
+	/*background: #b6b6b6 url(../images/bg.jpg) fixed no-repeat top center;*/
 	font-weight: 400;
 	font-size: 15px;
 	color: #333;
