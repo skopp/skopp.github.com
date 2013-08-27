@@ -316,7 +316,7 @@ ul.vc-controls li,
 /* div under btns */
 #songs-ab,
 .vc-controls:after{
-	font-family: 'Aldrich'
+	font-family: 'Aldrich';
 	font-size: 10px;
 	font-weight: 300;
 	text-transform: uppercase;
@@ -325,5 +325,5 @@ ul.vc-controls li,
 	text-shadow: 0 1px 1px rgba(255,255,255,0.8);
 }                 
 .feature .slot{
-	@import:url('base.css');
+		@import:url('base.css');
 }
