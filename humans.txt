@@ -1,25 +1,28 @@
 /humans.txt/
 
-v0.6 sept 2013 > new Tippexed look on cassette . awesome yeah? ... FAR from done yet.
+v0.6 sept 2013 > new Tippexed look on cassette . awesome yeah? ... FAR from done yet. and the 404 is f@#%'d - must fix.
 
 
 
       _                                           _ _   _           _     
      | |                                         (_) | | |         | |      |
-  ___| | _____  _ __  _ __     ___  _ __     __ _ _| |_| |__  _   _| |__    |       Leonardo DiCaprio Owen Wilson - had nothing to do with this
- / __| |/ / _ \| '_ \| '_ \   / _ \| '_ \   / _` | | __| '_ \| | | | '_ \   |     Director: Not Steven Spielberg at all
- \__ \   < (_) | |_) | |_) | | (_) | | | | | (_| | | |_| | | | |_| | |_) |  |    Producer: Well, it wasn't Jerry Bruckheimer, however,
- |___/_|\_\___/| .__/| .__/   \___/|_| |_|  \__, |_|\__|_| |_|\__,_|_.__/   | KnobKnob by Martin Angelov : https://github.com/martinaglv/KnobKnob
+  ___| | _____  _ __  _ __     ___  _ __     __ _ _| |_| |__  _   _| |__    |       
+ / __| |/ / _ \| '_ \| '_ \   / _ \| '_ \   / _` | | __| '_ \| | | | '_ \   |
+ \__ \   < (_) | |_) | |_) | | (_) | | | | | (_| | | |_| | | | |_| | |_) |  | 
+ |___/_|\_\___/| .__/| .__/   \___/|_| |_|  \__, |_|\__|_| |_|\__,_|_.__/   | 
                | |   | |                     __/ |                          |       
-               |_|   |_|                    |___/                           |__________________________
-                                                                                                       |_how_long_is_a_chinaman_______________________|
-MAD RESPEKT TO / PROPS FOR:                                                                             
-Cassette Tape by Mauricio Estrella http://manicho.deviantart.com/art/Cassette-PSD-File-86548493
-code derived from http://tympanus.net/codrops tut @ http://goo.gl/kaY8x
-BIGUPS to:
+               |_|   |_|                    |___/                           |
+               
+
+MAD RESPEKT TO / PROPS FOR:                                                                          
+* "KnobKnob" by Martin Angelov [https://github.com/martinaglv/KnobKnob]
+* Cassette Tape by Mauricio Estrella http://manicho.deviantart.com/art/Cassette-PSD-File-86548493
+* code derived from http://tympanus.net/codrops tut @ http://goo.gl/kaY8x
+* BIGUPS to:
 - koding.com and the super awesome cats over there
 - uhurucloud and michael surkan, calin miclaus and stefan in particular
 - contactually.com - @tony and brian + the rest of the krew. you guys supported me from day one. I owe you guys big time.
+
 - REDMACX for the awesome graphic work incl. the uber-striking SKUDA logo. you rock, G
 - TSE BIG MAX and all my colleagues over there. madd love
 - coderbuddy: @adrian and @a3rxander - you pythonlovers ;p
@@ -28,14 +31,9 @@ BIGUPS to:
 - if I forgot anyone that I didn't mean to, get over it.
 
 ....
-this is only the beginning,
 thank you for reading. 
 
 Rashaad Essop / skopp
-
-Ps. if the world ends, you may have my trenchcoat. It's funkalicious. On second thought, I'll keep it.
-
-
 
                                         _           _       _       ___     ___    __   ___  
                                        (_)         | |     | |     |__ \   / _ \  /_ | |__ \ 
@@ -49,9 +47,9 @@ _____/\\\\\\\\\\\____/\\\________/\\\__/\\\________/\\\__/\\\\\\\\\\\\________/\
  ___/\\\/////////\\\_\/\\\_____/\\\//__\/\\\_______\/\\\_\/\\\////////\\\____/\\\\\\\\\\\\\__       written in CLEAR and STRAIGHTFORWARD text how to address an infringement issue. Thus, failure to
   __\//\\\______\///__\/\\\__/\\\//_____\/\\\_______\/\\\_\/\\\______\//\\\__/\\\/////////\\\_        contact us correctly IS YOUR FAULT NOT OURS.
    ___\////\\\_________\/\\\\\\//\\\_____\/\\\_______\/\\\_\/\\\_______\/\\\_\/\\\_______\/\\\_         
-    ______\////\\\______\/\\\//_\//\\\____\/\\\_______\/\\\_\/\\\_______\/\\\_\/\\\\\\\\\\\\\\\_          "Put another way, we know copyrights, BEATCH. 
-     _________\////\\\___\/\\\____\//\\\___\/\\\_______\/\\\_\/\\\_______\/\\\_\/\\\/////////\\\_           Bring it on if you got balls."
+    ______\////\\\______\/\\\//_\//\\\____\/\\\_______\/\\\_\/\\\_______\/\\\_\/\\\\\\\\\\\\\\\_           
+     _________\////\\\___\/\\\____\//\\\___\/\\\_______\/\\\_\/\\\_______\/\\\_\/\\\/////////\\\_           
       __/\\\______\//\\\__\/\\\_____\//\\\__\//\\\______/\\\__\/\\\_______/\\\__\/\\\_______\/\\\_            
-       _\///\\\\\\\\\\\/___\/\\\______\//\\\__\///\\\\\\\\\/___\/\\\\\\\\\\\\/___\/\\\_______\/\\\_             Goodness, my cat just walked on my keyboard and typed out a random quote.
+       _\///\\\\\\\\\\\/___\/\\\______\//\\\__\///\\\\\\\\\/___\/\\\\\\\\\\\\/___\/\\\_______\/\\\_             
         ___\///////////_____\///________\///_____\/////////_____\////////////_____\///________\///__
-                                                                                                                  cats are strange.
+                                                                                                      updated sept 2013
