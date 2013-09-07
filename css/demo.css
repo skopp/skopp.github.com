@@ -102,10 +102,10 @@ a:hover{
 	padding: 15px 0 5px 0;
 	color: #666;
 	font-style: italic;
-	text-shadow: 1px 1px 1px rgba(255,255,255,0.9);
+	text-shadow: 1px 0 1px rgba(99,165,255,0.2);
 }
 .container > header h2 strong{
-	color: #781430;
+	color: #0caaff;
 }
 
 .main{
